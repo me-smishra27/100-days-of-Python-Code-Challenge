@@ -7,3 +7,4 @@ Variables in Python;
 Concatenation of Strings;
 print(), input(), len() functions;
 Indentations in Python.
+PROJECT : Band Name genrerator (using strings)
