@@ -7,4 +7,15 @@ Variables in Python;
 Concatenation of Strings;
 print(), input(), len() functions;
 Indentations in Python.
+Exercise: Number swapping in two variables
 PROJECT : Band Name genrerator (using strings)
+
+DAY 2:
+Data Types;
+Data type conversions;
+Mathematical Operations;
+f-string;
+round using "{:.2f}.format()
+Exercise: BMI calculator
+PROJECT: Tip Calculator 
+
