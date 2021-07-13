@@ -19,3 +19,12 @@ round using "{:.2f}.format()
 Exercise: BMI calculator
 PROJECT: Tip Calculator 
 
+DAY 3:
+Conditional Statement;
+if/elif/else;
+Nested if/elif Statements;
+Multiple if;
+Logical Operators;
+Exercise: Odd/Even Program; Prime/Composite Number Program, Leap year; BMI 2.0; Love Calculator, Pizza order
+Project : Treasure Island
+
