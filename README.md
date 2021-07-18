@@ -29,3 +29,10 @@ lower(), count() uses
 Exercise: Odd/Even Program; Prime/Composite Number Program, Leap year; BMI 2.0; Love Calculator, Pizza order
 Project : Treasure Island
 
+DAY 4:
+randomization;
+List;
+Nested List;
+List Methods;
+Exercise: Treasure Map
+Project : Rock, Paper and Scissor
